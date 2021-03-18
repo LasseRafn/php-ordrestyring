@@ -3,7 +3,7 @@
 	"description": "A PHP Api wrapper for Ordrestyring.dk",
 	"type": "library",
 	"require": {
-		"illuminate/support": "^5.3|^5.4",
+		"illuminate/support": "^5.3|^5.4|^8.5",
 		"guzzlehttp/guzzle": "^6.2"
 	},
 	"license": "MIT",
