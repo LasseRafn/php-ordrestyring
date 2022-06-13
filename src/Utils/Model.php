@@ -10,7 +10,7 @@ class Model
 {
     use SetsAttributes;
 
-    protected $client;
+    public $client;
 
     const ENDPOINT = '/';
     const PRIMARY_KEY = '/';
